@@ -21,4 +21,4 @@ This project is related to developing an analog clock by using pure JS HTML and 
 
 ## Project Preview:
 
-(https://ali-tahir4024.github.io/Analog-Clock-JS/).
+[Analog Clock JS](https://alitahir4024.github.io/Analog-Clock-JS/)
